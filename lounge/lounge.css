@@ -1,0 +1,36 @@
+/* Put properties in alphabetical order */
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: small;
+    line-height: 1.6em;
+}
+
+h1, h2 {
+    color: #007e7e;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+}
+
+.guarantee {
+    background-color: #a7cece;
+    background-image: url(images/background.gif);
+    background-position: top left;
+    background-repeat: no-repeat;
+    border-color: white;
+    border-style: dashed;
+    border-width: 1px;
+    color: #444444;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: italic;
+    line-height: 1.9em;
+    margin: 30px;
+    margin-right: 250px;
+    padding: 25px;
+    padding-left: 80px;
+}
