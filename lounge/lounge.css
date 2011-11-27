@@ -37,6 +37,7 @@ h2 {
 #elixirs {
     background: repeat-x url(images/cocktail.gif);
     border: thin solid #007e7e;
+    float: right;
     line-height: 1;
     margin-left: 20px;
     padding: 20px;
